@@ -1,5 +1,5 @@
 # Hi I'm Stuart A. Montes 👋
-![image](https://github.com/SDAM26/SDAM26/assets/87825436/7d73d035-c2b0-4779-98be-57a71d129cf1)
+![image](https://github.com/SDAM26/SDAM26/assets/87825436/6c0843d3-95da-4775-b5da-a569b6e7d690)
 
 
 Here are some ideas to get you started:
