@@ -1,7 +1,6 @@
-### Hi there 👋
+# Hi I'm Stuart A. Montes 👋
+![image](https://github.com/SDAM26/SDAM26/assets/87825436/7d73d035-c2b0-4779-98be-57a71d129cf1)
 
-
-**SDAM26/SDAM26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
