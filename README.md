@@ -1,5 +1,5 @@
 # Hi I'm Stuart A. Montes 👋
-![image](https://github.com/SDAM26/SDAM26/assets/87825436/6c0843d3-95da-4775-b5da-a569b6e7d690)
+<img src="https://github.com/SDAM26/SDAM26/blob/main/hello-there-private-from-penguins-of-madagascar.gif" alt="Descripción del GIF">
 
 
 Here are some ideas to get you started:
